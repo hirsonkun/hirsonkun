@@ -23,12 +23,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirsonkun&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
-
-<br><br>
-## Achievement
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirsonkun&theme=onedark&no-bg=false)](https://github.com/hirsonkun)
-
-<br/><br/>
-## Contributions
-
-[![contributions](https://github-readme-activity-graph.vercel.app/graph?username=hirsonkun&theme=github-compact&area=true)](https://github.com/hirsonkun)
