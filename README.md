@@ -14,12 +14,12 @@
 </a>
 
 <br> <br>
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hirsonkun&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight) -->
+<!-- ![GitHub stats](https://github-stats-ten-murex.vercel.app/api?username=hirsonkun&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight) -->
 ## GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/hirsonkun">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirsonkun&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirsonkun&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="180em" src="https://github-stats-ten-murex.vercel.app/api?username=hirsonkun&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-ten-murex.vercel.app/api/top-langs/?username=hirsonkun&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
 </a>
 </p>
