@@ -19,7 +19,7 @@
 
 <p align="left">
 <a href="https://github.com/hirsonkun">
-  <img height="180em" src="https://github-stats-zkk8.vercel.app/api?username=hirsonkun&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-stats-zkk8.vercel.app/api?username=hirsonkun&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-stats-zkk8.vercel.app/api/top-langs/?username=hirsonkun&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
 </a>
 </p>
